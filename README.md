@@ -12,10 +12,25 @@ This repository contains the coding assignments for the study plan "A Journey to
 6. **Real-World Problem: Sales Analysis**
 
 
+### Week-4 Assignment: Pandas (Topics Covered)
+1. **Creating DataFrames**
+2. **Indexing and Slicing**
+3. **Data Analysis**
+4. **Importing and Exporting Data**
+5. **Real-World Problem**
+
 
 ## How to Run the Notebook
 
-1. Clone the repository:
+1. Clone the repository: <br>
+   For Numpy Assignment
    ```bash
     git clone https://github.com/AudityGhosh/Audity-s-A-Journey-to-Data-Analysis-Data-Science---I/Week_3_Task_2_Assignment_Numpy_Basics.git
+
+   ```
+   For Pandas Assignment
+     ```bash
+    git clone https://github.com/AudityGhosh/Audity-s-A-Journey-to-Data-Analysis-Data-Science---I/Week_4_Task_2_Pandas_Assignment.git
+
+   ```
 
