@@ -20,6 +20,14 @@ This repository contains the coding assignments for the study plan "A Journey to
 5. **Real-World Problem**
 
 
+### Week-5 Assignment: Intermediate Pandas
+1. **Grouping & Aggregation**
+2. **Merging & Concatenation**
+3. **Time-Series Analysis**
+4. **Pivot Tables & Cross-Tabulations**
+5. **Exporting Data**
+
+
 ## How to Run the Notebook
 
 1. Clone the repository: <br>
@@ -33,5 +41,8 @@ This repository contains the coding assignments for the study plan "A Journey to
     git clone https://github.com/AudityGhosh/Audity-s-A-Journey-to-Data-Analysis-Data-Science---I/Week_4_Task_2_Pandas_Assignment.git
 
    
-T\This is updated line~~
+    ```
+   For Intermediate Pandas Assignment
+     ```bash
+    git clone https://github.com/AudityGhosh/Audity-s-A-Journey-to-Data-Analysis-Data-Science---I/Week_5_Task_2_Intermediate_Pandas_Audity_Ghosh.git
 
