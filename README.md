@@ -27,6 +27,12 @@ This repository contains the coding assignments for the study plan "A Journey to
 4. **Pivot Tables & Cross-Tabulations**
 5. **Exporting Data**
 
+### Week-6 Assignment: Visualizing Data with Matplotlib
+1. **Dataset Selection**
+2. **Basic Plots**
+3. **Customizing Plots**
+4. **Insights and Observations**
+
 
 ## How to Run the Notebook
 
