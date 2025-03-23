@@ -33,6 +33,12 @@ This repository contains the coding assignments for the study plan "A Journey to
 3. **Customizing Plots**
 4. **Insights and Observations**
 
+### Week-7 Assignment: Advanced Data Visualization with Seaborn
+1. **Dataset Selection**
+2. **Distribution and Relationship Plots**
+3. **Categorical Data Visualization**
+4. **Insights and Observations**
+
 
 ## How to Run the Notebook
 
